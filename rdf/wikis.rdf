@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:sports="http://www.semanticweb.org/newsanalytics/ontologies/2016/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/0">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australian Open</has_events>
+	<sports:db_description>The Australian Open is a major tennis tournament held annually over the last fortnight of January in Melbourne, Australia. First held in 1905, the tournament is chronologically the first of the four Grand Slam tennis events of the year, the other three being the French Open, Wimbledon and the US Open. It features men's and women's singles; men's, women's and mixed doubles and junior's championships; as well as wheelchair, legends and exhibition events. Prior to 1988 the tournament had been played on grass. Since 1988 two types of hardcourt surfaces have been used at Melbourne Park green Rebound Ace to 2007 and blue Plexicushion from 2008. The Australian Open typically has high attendance, second only to the US Open. It was also the first Grand Slam tournament to feature indoor play during wet weather or extreme heat with its three primary courts, the Rod Laver Arena, Hisense Arena and the refurbished Margaret Court Arena equipped with retractable roofs.</sports:db_description>
+	<sports:see_also>1905 Australasian Championships</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/1">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">National Football League</has_events>
+	<sports:db_description>The National Football League (NFL) is a professional American football league consisting of 32 teams, divided equally between the National Football Conference (NFC) and the American Football Conference (AFC). The NFL is one of the four major professional sports leagues in North America, and the highest professional level of American football in the world. The NFL's 17-week regular season runs from the week after Labor Day to the week after Christmas, with each team playing 16 games and having one bye week. Following the conclusion of the regular season, six teams from each conference (four division winners and two wild card teams) advance to the playoffs, a single-elimination tournament culminating in the Super Bowl, played between the champions of the NFC and AFC. The NFL was formed in 1920 as the American Professional Football Association (APFA) before renaming itself the National Football League for the 1922 season. The NFL agreed to merge with the American Football League (AFL) in 1966, and the first Super Bowl was held at the end of that season; the merger was completed in 1970. Today, the NFL has the highest average attendance (67,591) of any professional sports league in the world and is the most popular sports league in the United States. The Super Bowl is among the biggest club sporting events in the world and individual Super Bowl games account for many of the most watched television programs in American history, all occupying the Nielsen's Top 5 tally of the all-time most watched U.S. television broadcasts by 2015. The NFL's executive officer is the commissioner, who has broad authority in governing the league. The team with the most NFL championships is the Green Bay Packers with thirteen (nine NFL titles before the Super Bowl era, and four Super Bowl championships afterwards); the team with the most Super Bowl championships is the Pittsburgh Steelers with six. The current NFL champions are the Denver Broncos, who defeated the Carolina Panthers 24-10 in Super Bowl 50.</sports:db_description>
+	<sports:see_also>1920 APFA season</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/2">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">College football</has_events>
+	<sports:db_description>College football is American football played by teams of student athletes fielded by American universities, colleges, and military academies, or Canadian football played by teams of student athletes fielded by Canadian universities. It was through college football play that American football rules first gained popularity in the United States. No minor league farm organizations exist in American football. Therefore, college football is generally considered to be the second tier of American football in the United States; one step ahead of high school competition, and one step below professional competition. It is in college football where a player's performance directly impacts his chances of playing professional football. The best collegiate players will typically declare for the professional draft after 3 to 4 years of collegiate competition, with the NFL holding its annual draft every spring. 256 players are selected annually. Those not selected can still attempt to land an NFL roster spot as an undrafted free agent.</sports:db_description>
+	<sports:see_also>12th man (football)</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/3">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">National Basketball Association</has_events>
+	<sports:db_description>The National Basketball Association (NBA) is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world. It has 30 teams (29 in the United States and 1 in Canada), and is an active member of USA Basketball (USAB), which is recognized by FIBA (also known as the International Basketball Federation) as the national governing body for basketball in the United States. The NBA is one of the four major professional sports leagues in the United States and Canada. NBA players are the world's best paid sportsmen, by average annual salary per player. The league was founded in New York City on June 6, 1946, as the Basketball Association of America (BAA). The league adopted the name National Basketball Association on August 3, 1949, after merging with its rival National Basketball League (NBL). The league's several international as well as individual team offices are directed out of its head offices located in the Olympic Tower at 645 Fifth Avenue in New York City. NBA Entertainment and NBA TV studios are directed out of offices located in Secaucus, New Jersey.</sports:db_description>
+	<sports:see_also>1946-47 BAA season</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/4">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2016 Barclays ATP Finals</has_events>
+	<sports:see_also>No links available</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/5">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2012 BNP Paribas Open</has_events>
+	<sports:db_description>The 2012 BNP Paribas Open (also known as the 2012 Indian Wells Masters) was a professional tennis tournament played at Indian Wells, California in March 2012. It was the 37th edition of the men's event (24th for the women), known as the BNP Paribas Open, and was classified as an ATP World Tour Masters 1000 event on the 2012 ATP World Tour and a Premier Mandatory event on the 2012 WTA Tour. Both the men's and the women's events took place at the Indian Wells Tennis Garden in Indian Wells, California, United States from March 5 through March 18, 2012 and were played on outdoor hard courts.</sports:db_description>
+	<sports:see_also>1974 American Airlines Tennis Games</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/6">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">FIFA Beach Soccer World Cup</has_events>
+	<sports:db_description>The FIFA Beach Soccer World Cup is an international beach soccer competition contested by the men's national teams of the member associations of FIFA	- the sport's global governing body. The tournament was established in 1995 as the Beach Soccer World Championship taking place every year for the next decade under the supervision of Beach Soccer Worldwide (BSWW) and its predecessors. Due to the sport's rapid growth	 FIFA took an interest in the sport and as the main tournament in world beach soccer joined hands with BSWW over the organization of the competition in 2005 re-branding it as an official FIFA tournament. Since 2009 the tournament has taken place every two years to allow continental tournaments to flourish without the burden of the World Cup qualifiers crowding the schedule every 12 months. The growing global popularity of beach soccer resulted in FIFA's decision to move the stage of the World Cup from its native home in Brazil to other parts of the globe to capitalise on and continue to stimulate global interest. The first edition held outside Brazil was in 2008 in Marseille France. The current tournament format lasts over 10 days and involves 16 teams competing initially in four groups of four teams. The group winners and runners-up advance to a series of knock-out stages until the champion is crowned. The losing semi-finalists play each other in a play-off match to determine the third and fourth-placed teams. The most recent edition was held in Espinho, Portugal and crowned Portugal as champions for the second time - first under the patronage of FIFA - after defeating Tahiti 5-3 in the final.</sports:db_description>
+	<sports:see_also>1995 Beach Soccer World Championship</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/7">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">FIFA World Cup</has_events>
+	<sports:db_description>The FIFA World Cup, often simply called the World Cup, is an international association football competition contested by the senior men's national teams of the members of Federation Internationale de Football Association (FIFA), the sport's global governing body. The championship has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War. The current champion is Germany, which won its fourth title at the 2014 tournament in Brazil. The current format of the competition involves a qualification phase, which currently takes place over the preceding three years, to determine which teams qualify for the tournament phase, which is often called the World Cup Finals. 32 teams, including the automatically qualifying host nation(s), compete in the tournament phase for the title at venues within the host nation(s) over a period of about a month.		
+The 20 World Cup tournaments have been won by eight different national teams. Brazil have won five times, and they are the only team to have played in every tournament. The other World Cup winners are Germany and Italy, with four titles each; Argentina and inaugural winner Uruguay, with two titles each; and England, France and Spain, with one title each. The World Cup is the most widely viewed and followed sporting event in the world, exceeding even the Olympic Games; the cumulative audience of all matches of the 2006 FIFA World Cup was estimated to be 26.29 billion with an estimated 715.1 million people watching the final match, a ninth of the entire population of the planet.</sports:db_description>
+	<sports:see_also>1930 FIFA World Cup</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/8">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2012 World Indoor Archery Championships</has_events>
+	<sports:db_description>The 2012 World Indoor Target Archery Championships was the 11th edition of the World Indoor Archery Championships. The event was held in Las Vegas, United States from February 5 to February 9, 2012 and was organized by International Archery Federation (FITA). The event was contested at the South Point Hotel, and the event was followed by the World Archery Festival and the finals of the second Indoor Archery World Cup.</sports:db_description>
+	<sports:see_also>1991 World Indoor Archery Championships	</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/9">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Archery World Cup</has_events>
+	<sports:db_description>The Archery World Cup is a competition, started in 2006, organized by the World Archery Federation, where the archers compete in four different stages in four different countries and the best eight archers of each category (from 2010, four archers from 2006-09) advance to an additional stage to contest the Archery World Cup Final. This form of competition was introduced following the success of the 2003 World Archery Championships in New York and the 2004 Summer Olympics with the intent of making the sport more popular and attractive to the spectators, with the matches being held in 'spectacular' locations and the final matches being broadcast online. It has received plaudits for its innovative approach to the sport, raising its profile and reach. From 2013, the World Cup is broadcast live on Eurosport. It carries sponsorship from Kia and Longines, which supports the annual Longines Prize of Precision for archery, for the 'best male and female athletes that master bow and arrow through concentration, balance, accuracy, and skill'.</sports:db_description>
+	<sports:see_also>2003 World Archery Championships</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/10">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Indoor soccer</has_events>
+	<sports:db_description>Indoor soccer or arena soccer (known internationally as indoor football, minifootball, fast football, floorball or showball) is a game derived from association football adapted for play in a walled indoor arena. Indoor soccer, as it is most often known in the United States and Canada, was originally developed in these two countries as a way to play football during the winter months, when snow would make outdoor play difficult. In those countries, areas such as hockey rinks or basketball courts are adapted for indoor soccer play. In other countries the game is played in either indoor or outdoor arenas surrounded by walls, and is referred to by different names (such as fast football (futbol rapido) in Mexico, showbol in South America, and indoor football (futbol indoor) in Spain). Indoor soccer has different regulations from other versions of association football designed for indoor play, such as futsal and five-a-side football. Unlike futsal, which is played on ceramic surfaces, indoor soccer is played on synthetic turf. Indoor soccer courts are delimited by walls instead of lines, and there are no player throw-ins. FIFA, the international body that oversees international association football competitions, does not sanction the synthetic turf version of indoor soccer, having developed its own code of indoor football (which they refer to as futsal). Indoor soccer is most popular in the United States, Canada, and Mexico, with several amateur, collegiate and professional leagues functioning. While internationally less popular than futsal, indoor soccer is also played at the league level in many countries outside North America. The World Minifootball Federation (WMF) is the governing body of indoor soccer at the international level, having replaced the International Fast Football Federation (FIFRA). The term minifootball, which was originally coined in Europe, has been adopted by the WMF as a standard international name for the sport.</sports:db_description>
+	<sports:see_also>3x3 (basketball)</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/11">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">WWE SmackDown</has_events>
+	<sports:db_description>WWE SmackDown, also known as SmackDown Live or simply SmackDown, is a professional wrestling television program that debuted on August 26, 1999. The show's name is also used to refer to the SmackDown brand, in which WWE employees are assigned to work and perform on that program; the other programs and brands currently being Raw and NXT. SmackDown is currently broadcast live on Tuesday nights on the USA Network. The show was originally broadcast on Thursday nights but moved to Friday on September 9, 2005 before returning to Thursdays on January 15, 2015, On July 19, 2016 it was moved to a live broadcast on Tuesday night. SmackDown! debuted in the United States on the UPN television network on April 29, 1999, but after the merger of UPN and the WB, SmackDown! began airing on The CW in September 2006. The show was moved to MyNetworkTV in October 2008, to Syfy on October 1, 2010 and to USA Network on January 7, 2016. It complements Raw as the second of WWE's two main weekly programs. In its history, SmackDown has been broadcast from 162 different arenas, in 147 cities and towns, in seven different countries (the United States, Canada, the United Kingdom, Iraq in 2003 and 2004 for Tribute to the Troops, Japan in 2005, Italy in 2007, and Mexico in 2011). Due to time differences, SmackDown premieres a few hours earlier in Ireland and the United Kingdom and a day earlier in Australia, Canada, Singapore, and Philippines than the United States, except for live episodes. For international broadcast listings, see below. The show celebrated its 15th anniversary on October 10, 2014. The show will celebrate it's 900th episode on 15 November 2016.</sports:db_description>
+	<sports:see_also>WWE Raw</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/12">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canadian Championship</has_events>
+	<sports:db_description>The Canadian Championship-known as the Amway Canadian Championship for sponsorship reasons-is an annual soccer tournament contested by premier Canadian professional teams. The winner is awarded the Voyageurs Cup and Canada's berth in the CONCACAF Champions League. As of 2015, it is contested by MLS sides Toronto FC, Vancouver Whitecaps FC, and Montreal Impact, NASL side FC Edmonton and USL side Ottawa Fury FC. It is currently sponsored by Amway Canada and organized by the Canadian Soccer Association.</sports:db_description>
+	<sports:see_also>1976 CONCACAF Champions Cup</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/13">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2014 IAAF World Indoor Championships</has_events>
+	<sports:db_description>The 2014 IAAF World Indoor Championships in Athletics was the fifteenth edition of the international indoor track and field competition organised by the IAAF. The event was held between 7-9 March 2014 at the Ergo Arena in Sopot Poland.</sports:db_description>
+	<sports:see_also>1961 IAAF World Race Walking Cup</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/14">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Test cricket matches results (1975-79)</has_events>
+	<sports:db_description>The following tables provided the complete summary of Test matches held between 1975-79.</sports:db_description>
+	<sports:see_also>ACC Premier League</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/15">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Ranji Trophy</has_events>
+	<sports:db_description>The Ranji Trophy is a domestic first-class cricket championship played in India between teams representing regional cricket associations. The competition currently consists of 27 teams, with 21 of the 29 states in India and Delhi (which is an Union Territory), having at least one representation. The competition is named after first Indian Cricketer who played international cricket, Ranjitsinhji who was also known as 'Ranji'. He played for England and Sussex. Mumbai is the current Ranji champion having beaten Saurashtra by an innings and 21 runs in the finals of the 2015-16 season held in Pune.</sports:db_description>
+	<sports:see_also>1934-35 Indian cricket season</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/16">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">English cricket team in India in 2012-13</has_events>
+	<sports:db_description>The England cricket team toured India from 30 October 2012 to 27 January 2013. The tour consisted of four Test matches, five One Day Internationals and two Twenty20 International matches. A three-day training camp was held from 26 October to 28 October at the International Cricket Council Global Cricket Academy in Dubai, United Arab Emirates, before the tour. The England team returned to the United Kingdom after the Twenty20 series and returned in the new year for the One Day International series. During the intervening period, India hosted Pakistan for two T20Is and three ODIs. At the conclusion of the tour, the English team travelled to New Zealand. England's 2-1 Test series win was their first series victory in India since the 1984?85 tour. The former England captain Michael Vaughan said that the series victory was bigger than the 2010?11 Ashes series victory in Australia. He said of Alastair Cook that 'he has led England to probably their biggest achievement in many many years. On 23 December 2012, Sachin Tendulkar announced his retirement from ODI cricket.</sports:db_description>
+	<sports:see_also>1987 Cricket World Cup</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/17">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Naji Abu Nowar</has_events>
+	<sports:db_description>Naji Abu Nowar (born 1981) is a British-Jordanian film director, writer and producer. Best known for his works Death of a Boxer (2009), Till Death (2012) and Theeb (2014) for which he received wide spread acclaim and recognition, including a Best Foreign Language Film nomination at 88th Academy Awards, nomination for Best film not in the English language, and the BAFTA Award for Outstanding Debut by a British Writer, Director or Producer at the 69th British Academy Film Awards. Theeb is the first Jordanian film to receive an Oscar nomination.</sports:db_description>
+	<sports:see_also>69th British Academy Film Awards</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/18">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Seguin Falls</has_events>
+	<sports:db_description>Seguin Falls is a ghost town and unincorporated place on the Nipissing Colonization Road in the township of Seguin, Parry Sound District in northeastern Ontario, Canada.</sports:db_description>
+	<sports:see_also>Burk's Falls, Ontario</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/19">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Paul de Castella</has_events>
+	<sports:db_description>Paul Frederic de Castella (22 May 1827 - 14 March 1903) was a Swiss-Australian grazier and winemaker, the pioneer of viticulture in Victoria.</sports:db_description>
+	<sports:see_also>Australian Dictionary of Biography</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/20">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russian Grand Pix</has_events>
+	<sports:db_description>The Russian Grand Prix is an annual auto race held at Sochi Autodrom—a street circuit built around Olympic Park in Sochi, Russia, as part of the Formula One World Championship. The race was first held briefly in the 1910s in St. Petersburg of the Russian Empire. The plans were made to host a Formula One event in Moscow for the 1983 season as the Grand Prix of the Soviet Union, these plans fell through. In 2010, it was officially announced that the Russian city of Sochi, which was also preparing to host the 2014 Winter Olympics, will host a new event on the F1 schedule beginning in the 2014 Formula One season under a seven-year deal.	</sports:db_description>
+	<sports:see_also>No links available</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/21">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">WWE NXT</has_events>
+	<sports:db_description>WWE NXT, often referred to simply as NXT, is a professional wrestling promotion and a division of the American entertainment company WWE. It is based in Winter Park, Florida.	
+While its primary purpose is to serve as a developmental division for WWE, NXT has come to be viewed by wrestling writers and fans as its own distinct entity - effectively serving as a third brand complementing Raw and SmackDown. Originally holding its shows primarily in the Orlando, Florida area, NXT expanded its reach as time has gone on, having embarked on national and international tours, being praised for its high quality of wrestling, captivating storylines, and the opportunities they afford female wrestlers as opposed to on the main roster; the latter of which has led to a change on how women's wrestling is portrayed in WWE.1980s professional wrestling boom</sports:db_description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/22">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Survivor Series</has_events>
+	<sports:db_description>Survivor Series is an annual professional wrestling pay-per-view event held in November by WWE. It is the second longest running pay-per-view event in WWE history and one of the Big Four events along with WrestleMania, Royal Rumble and SummerSlam as it is one of the original four pay-per-views produced by WWE.</sports:db_description>
+	<sports:see_also>1980s professional wrestling boom</sports:see_also>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://wikis.newsanalytics/23">
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NBA</has_events>
+	<sports:db_description>The National Basketball Association (NBA) is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world. It has 30 teams (29 in the United States and 1 in Canada), and is an active member of USA Basketball (USAB), which is recognized by FIBA (also known as the International Basketball Federation) as the national governing body for basketball in the United States. The NBA is one of the four major professional sports leagues in the United States and Canada. NBA players are the world's best paid sportsmen, by average annual salary per player. The league was founded in New York City on June 6, 1946, as the Basketball Association of America (BAA). The league adopted the name National Basketball Association on August 3, 1949, after merging with its rival National Basketball League (NBL). The league's several international as well as individual team offices are directed out of its head offices located in the Olympic Tower at 645 Fifth Avenue in New York City. NBA Entertainment and NBA TV studios are directed out of offices located in Secaucus, New Jersey.</sports:db_description>
+	<sports:see_also>1946-47 BAA season</sports:see_also>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:sports="http://www.semanticweb.org/newsanalytics/ontologies/2016/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/0">
+	<sports:person_name>Wayne Gretzky</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">officialgretzky</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Excited to announce the launch of my new book, 99: Stories of the Game! #99storiesofthegame #nhl https://t.co/HTUfkjgaZE</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/1">
+	<sports:person_name>Wayne Gretzky</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">officialgretzky</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @EdmontonOilers: "I'm proud to be back as an Oiler &amp;amp,  hope to be part of another Stanley Cup." Wayne Gretzky on joining #Oilers Entertain…</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/2">
+	<sports:person_name>Wayne Gretzky</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">officialgretzky</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Great to officially open my new Wine &amp;amp,  Whisky Bar today at Edmonton Airport! https://t.co/yZDAtVQCSr</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/3">
+	<sports:person_name>Carmelo Anthony</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">carmeloanthony</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Stand Together In Solidarity. Tune in now to #ESPN2 and watch The Clubhouse. https://t.co/J2QcOrlXal</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/4">
+	<sports:person_name>Carmelo Anthony</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">carmeloanthony</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Salute To My Toy Soldier!!! @lala You killed this ☝️ #StayMe7o https://t.co/sy7lS16yqK</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/5">
+	<sports:person_name>Carmelo Anthony</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">carmeloanthony</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">P-Positive E-Energy A-Activates C-Constant E-levation
+</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/6">
+	<sports:person_name>Carmelo Anthony</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">carmeloanthony</twitter_handle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/7">
+	<sports:person_name>Harrison Barnes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">hbarnes</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2K made Moments Card #LockerCodes for my game the other night @NBA2K_MyTEAM &amp;amp, @Ronnie2K. Grab code in #NBA2K17:  FAMNT-G55QE-KZKA3-YRKZW</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/8">
+	<sports:person_name>Harrison Barnes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">hbarnes</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Congrats @PassItParsons I’ll see you tomorrow at the game! My @ShockDoctor friends will reach out to you with the d… https://t.co/kk9K3e0yTD</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/9">
+	<sports:person_name>Harrison Barnes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">hbarnes</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@gsuen @ShockDoctor good to hear</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/10">
+	<sports:person_name>Tom Brady</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">mk_tombrady</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Trevor Siemian STINKS</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/11">
+	<sports:person_name>Tom Brady</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">mk_tombrady</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Theo Epstein is a LOCK first ballet HOF'er</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/12">
+	<sports:person_name>Tom Brady</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">mk_tombrady</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@SamerKadi88 i must have imagined some other qb throw for 175 yds and 2 tds with no turnovers. That didn't help at all.</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/13">
+	<sports:person_name>Aleksandr Kokorin</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">akokorin9</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@fc_anji</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/14">
+	<sports:person_name>Aleksandr Kokorin</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">akokorin9</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">I am soo happy to be here. Thank you everybody! http://t.co/zi9MyA5QWg</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/15">
+	<sports:person_name>Vitaly Petrov</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">vitalypetrov</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @rumotorsport: "Росберг стал бы достойным чемпионом". @vitalypetrov о предстоящей гонке в Бразилии</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/16">
+	<sports:person_name>Vitaly Petrov</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">vitalypetrov</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@rumotorsport 10/10.... https://t.co/hGbyAJ1evA</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/17">
+	<sports:person_name>Vitaly Petrov</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">vitalypetrov</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @petrovlive: Всем спасибо за внимание!!  Впереди финальный этап Чемпионата мира, но все хорошо и работа кипит как никогда. Спасибо за слова поддержки в этот период и в целом</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/18">
+	<sports:person_name>Daniil Kvyat</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">dany_kvyat</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @johnnyherbertf1: And I'm on tour from today: https://t.co/S1V1vRsTPR</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/19">
+	<sports:person_name>Daniil Kvyat</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">dany_kvyat</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @McLarenF1: Post race lid swap. @JensonButton swaps with @Dany_Kvyat and @alo_oficial 'swaps' with @jpmontoya! https://t.co/lHu3pR7JxY</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/20">
+	<sports:person_name>Daniil Kvyat</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">dany_kvyat</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Много чего происходит в это время для меня,  но все хорошо и работа кипит как никогда. Спасибо за слова поддержки в этот период и в целом</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/21">
+	<sports:person_name>Daniil Kvyat</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">dany_kvyat</twitter_handle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/22">
+	<sports:person_name>Guan Tianyi</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">tianyi0628</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">It's so cute (*^_^*) http://t.co/qocgc4psT5</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/23">
+	<sports:person_name>Guan Tianyi</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">tianyi0628</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Lakers vs Spurs -- Staples Center http://t.co/tkznoWqWxx</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/24">
+	<sports:person_name>Guan Tianyi</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">tianyi0628</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hollywood! http://t.co/mpWdo8uPP0</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/25">
+	<sports:person_name>Guan Tianyi</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">tianyi0628</twitter_handle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/26">
+	<sports:person_name>Liang Wen</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">lwch3n</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@Sencux how do you do your hair?!</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/27">
+	<sports:person_name>Liang Wen</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">lwch3n</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @PhillyD: Don't let this pathetic terrorist scare you from daring to be yourself.</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/28">
+	<sports:person_name>Liang Wen</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">lwch3n</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @Bjergsen: Rest in peace Christina Grimmie,  was lucky enough to meet her at LCS a few times. https://t.co/3rMq7XbLjE</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/29">
+	<sports:person_name>Steve Smith</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">89stevesmith</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Some Love from the homie Torrey aka Cleats </tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/30">
+	<sports:person_name>Steve Smith</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">89stevesmith</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">We're always ready to make #OurColors proud,  @TideNFL. I'm all in for the Purple and Black. Let me hear you… https://t.co/rVywoYoEdP</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/31">
+	<sports:person_name>Steve Smith</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">89stevesmith</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">https://t.co/G6qFJjitxH https://t.co/e7trmRGOmZ</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/32">
+	<sports:person_name>Michael Clarke</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">mclarke23</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Lovely young man doing great things on and off the field. https://t.co/BGr8XVdLQ1</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/33">
+	<sports:person_name>Michael Clarke</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">mclarke23</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">He's away @calferguson12. Nice feeling getting your first run for Australia</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/34">
+	<sports:person_name>Michael Clarke</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">mclarke23</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">4/12...</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/35">
+	<sports:person_name>Cameron Bairstow</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">cbairstow41</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">No Tweets </tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/36">
+	<sports:person_name>Aron Baynes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">aronbaynes</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@HanaJapanese was great...arigatou gozaimashita</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/37">
+	<sports:person_name>Aron Baynes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">aronbaynes</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Still have more candy than expected https://t.co/usjefqJU37</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/38">
+	<sports:person_name>Aron Baynes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">aronbaynes</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hope you enjoyed it mate!! https://t.co/TUB9UpByOf</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/39">
+	<sports:person_name>Mark Knowles</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">knowlzee10s</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @Bryanbros: Gonna miss the fun. Let me know who wins!  #iVoted #ATPFinals https://t.co/nQ46AhTJe9</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/40">
+	<sports:person_name>Mark Knowles</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">knowlzee10s</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">So fitting that @andy_murray got to take the day off and enjoy becoming the best player on the planet. Great example of hard work pays off!</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/41">
+	<sports:person_name>Mark Knowles</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">knowlzee10s</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Congratulations to @andy_murray on becoming the #1 player in the world. Not sure there is a better example of perseverance. </tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/42">
+	<sports:person_name>Simon Orchard</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">orch3</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @Yg_Trece: Human</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/43">
+	<sports:person_name>Simon Orchard</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">orch3</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @RonanFarrow: "I yearn for a classic old fashioned gentleman who will take me furniture shopping pop a tic tac and grab my genitals</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/44">
+	<sports:person_name>Simon Orchard</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">orch3
+</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">My take on the harsh and true reality of homophobia in sport - https://t.co/Z4rX8dyhAJ</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/45">
+	<sports:person_name>Nick Kyrgios</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">nickkyrgios</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @ImLeslieChow: Obama's reaction reminds me of this scene in the office https://t.co/2kW9Cmdc1P</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/46">
+	<sports:person_name>Nick Kyrgios</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">nickkyrgios</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@scottipippen @Moook8 Crowder and Horford out. Don't count</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/47">
+	<sports:person_name>Nick Kyrgios</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">nickkyrgios</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@alexdeminaur Good week last week bro and solid again so far this week. Keep it up.</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/48">
+	<sports:person_name>Nick Kyrgios</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">nickkyrgios</twitter_handle>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/49">
+	<sports:person_name>Tim Cahill</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">tim_cahill</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">All the best @MelbCityWFC #goodluck https://t.co/CPLewl9IFW</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/50">
+	<sports:person_name>Tim Cahill</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">tim_cahill</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT- @Foxtel @TC4Academy @FOXSportsNews Ambitions Tour Our very own free grassroots initiative… https://t.co/0qhbSi6V7d</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/51">
+	<sports:person_name>Tim Cahill</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">tim_cahill</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Dates close 25th Nov for my free @foxtel tc4academy check the link in my bio to enter.</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/52">
+	<sports:person_name>Mile Jedinak</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">milejedinak</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @PalaceStats: Mile Jedinak completed 96% of his passes in the first half #CPFC (Via @Squawka) http://t.co/L2yuSkUCPp</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/53">
+	<sports:person_name>Mile Jedinak</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">milejedinak</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@PalaceStats Where D'You get that?</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/54">
+	<sports:person_name>Mile Jedinak</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">milejedinak</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@MatchAttaxTCG Of course! 100 club!</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/55">
+	<sports:person_name>Yutaka Fukufuj</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">44fuji</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">10日間で6試合の韓国遠征が始まりました。大事な初戦のハイワン戦は4-2で勝利。明日も頑張ります！</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/56">
+	<sports:person_name>Yutaka Fukufuj</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">44fuji</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">【キリン一番搾り 栃木づくりマッチデー】本日は16時からホーム日光霧降アイスアリーナでサハリンと対戦します。応援よろしくお願い致します！</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/57">
+	<sports:person_name>Yutaka Fukufuj</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">44fuji</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @kengosasaki: https://t.co/IkM6M82d9Y C cutが何故必要なのか。C cutをするためにはどういうﾒｶﾆｽﾞﾑを理解しなくてはいけないか。そこら辺を理解して取り組まないと</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/58">
+	<sports:person_name>Hiroyuki Miura</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">hmiura3</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">No Tweets</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/59">
+	<sports:person_name>Keisuke Honda</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">keisukehonda_fr</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @acmilan: Japan won 4-0 vs Oman in the Kirin Challenge Cup. </tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/60">
+	<sports:person_name>Keisuke Honda</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">keisukehonda_fr</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Keisuke #Honda was the captain of the team</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/61">
+	<sports:person_name>Keisuke Honda</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">keisukehonda_fr</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@HirokiSakaiFR oups, petite erreur !</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/62">
+	<sports:person_name>Keisuke Honda</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">keisukehonda_fr</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Montella estime qu'il n'est pas nécessaire de prolonger Honda dont le contrat expire en fin de saison. Il ne rentrerait pas dans ses plans.</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/63">
+	<sports:person_name>MS Dhoni</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">msdhoni</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @adgpi: Statement by DGMO #IndianArmy on 29 Sep 16 https://t.co/ckYOApWcHQ</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/64">
+	<sports:person_name>MS Dhoni</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">msdhoni</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Just posted a photo https://t.co/pT7U2TyAO5</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/65">
+	<sports:person_name>MS Dhoni</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">msdhoni</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Great comeback by Sakshi Malik 2 win our 1st medal in Rio.determination and self belief r the key for a performance like this.congratulation</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/66">
+	<sports:person_name>Shahid Afridi</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">safridiofficial</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Thank u Mr&amp;amp;Mrs Zia for great hospitality #Bangladesh https://t.co/8C8lXWFrbi</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/67">
+	<sports:person_name>Shahid Afridi</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">safridiofficial</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">RT @ifti_ifrahim: Proud to announce @kbwcombat has chosen @SAFoundationN for this event to raise funds for refugees @SAfridiOfficial #HopeN…</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/68">
+	<sports:person_name>Shahid Afridi</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">safridiofficial</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Fantastic performance from RR boys today! Really happy with my bowling form so far. Alhamdulillah #BPL2016</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/69">
+	<sports:person_name>Virat Kohli</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">imVkohli</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Woohoo Forca Goa. What a comeback win. So happy for the boys. Great great stuff @FCGoaOfficial</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/70">
+	<sports:person_name>Virat Kohli</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">imVkohli</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">New Cut ✂✂Lighter head always feels great</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/71">
+	<sports:person_name>Virat Kohli</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">imVkohli</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Please be more aware. The future depends on how we act now. It's heartbreaking to see the pollution levels rise so high</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/72">
+	<sports:person_name>Leander Paes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Leander</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">What an amazing atmosphere at the Mumbai football arena! Tough loss in the closing minutes but we will fight back #Boletohmcfc #mumbaicityfc</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/73">
+	<sports:person_name>Leander Paes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Leander</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">No prizes for guessing who tennis maestro, @Leander Paes, is rooting for! #ISLfie #MUMvPUN #LetsFootball</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/74">
+	<sports:person_name>Leander Paes</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Leander</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Congratulations @andy_murray on becoming world no.1</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/75">
+	<sports:person_name>Sania Mirza</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">MirzaSania</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Spa day with your aunt at home after a tough day in the gym  is the best #Phuppu #Fav… https://www.instagram.com/p/BMoPJTaBEQM/ </tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/76">
+	<sports:person_name>Sania Mirza</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">MirzaSania</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">As Shakespeare’s Cassius noted, “The fault, dear Brutus, is not in our stars, but in ourselves " .....</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/77">
+	<sports:person_name>Sania Mirza</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">MirzaSania</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">No comments!!!</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/78">
+	<sports:person_name>Mohammad Amir</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">iamamirofficial</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">@iamamirofficial first time apart after wedding missing u :(best of luck for the NZ series inshallah Allah will bless us wiv victory again.</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/79">
+	<sports:person_name>Mohammad Amir</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">iamamirofficial</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Mohammad Amir dives into the record books</tweets>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://tweets.newsanalytics/80">
+	<sports:person_name>Mohammad Amir</sports:person_name>
+	<twitter_handle xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">iamamirofficial</twitter_handle>
+	<tweets xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Amir confident of regaining old form</tweets>
+</rdf:Description>
+
+</rdf:RDF>

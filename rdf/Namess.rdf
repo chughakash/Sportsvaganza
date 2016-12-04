@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:sports="http://www.semanticweb.org/newsanalytics/ontologies/2016/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://person.newsanalytics/0">
+	<sports:person_name>Wayne Gretzky</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/1">
+	<sports:person_name>Mark Messier</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/2">
+	<sports:person_name>Carmelo Anthony</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/3">
+	<sports:person_name>Harrison Barnes</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/4">
+	<sports:person_name>Tom Brady</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/5">
+	<sports:person_name>Peyton Mannig</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/6">
+	<sports:person_name>Aleksandr Kokorin</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/7">
+	<sports:person_name>Igor Akinfeev</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/8">
+	<sports:person_name>Vitaly Petrov</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Formula 1</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/9">
+	<sports:person_name>Daniil Kvyat</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Formula 1</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/10">
+	<sports:person_name>Bao Jiachang</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">China</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/11">
+	<sports:person_name>Guan Tianyi</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">China</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/12">
+	<sports:person_name>Liang Wen</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Golf</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">China</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/13">
+	<sports:person_name>Shanshan Fen</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Golf</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">China</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/14">
+	<sports:person_name>Steve Smith</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/15">
+	<sports:person_name>Michael Clarke</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/16">
+	<sports:person_name>Cameron Bairstow</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/17">
+	<sports:person_name>Aron Baynes</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/18">
+	<sports:person_name>Mark Knowles</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/19">
+	<sports:person_name>Simon Orchard</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/20">
+	<sports:person_name>Nick Kyrgios</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/21">
+	<sports:person_name>Bernard Tomin</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/22">
+	<sports:person_name>Tim Cahill</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/23">
+	<sports:person_name>Mile Jedinak</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/24">
+	<sports:person_name>Yutaka Fukufuji</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Japan</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/25">
+	<sports:person_name>Hiroyuki Miura</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Japan</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/26">
+	<sports:person_name>Yuta Tabuse</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Japan</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/27">
+	<sports:person_name>Yuki Togashi</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Japan</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/28">
+	<sports:person_name>Keisuke Honda</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Japan</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/29">
+	<sports:person_name>Shinji Kagawa</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Japan</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/30">
+	<sports:person_name>Virat kohli</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/31">
+	<sports:person_name>MS Dhoni</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">india</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/32">
+	<sports:person_name>Leander Paes</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/33">
+	<sports:person_name>Sania Mirza</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/34">
+	<sports:person_name>Shahid Afridi</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Pakistan</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://person.newsanalytics/35">
+	<sports:person_name>Mohammad Amir</sports:person_name>
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Pakistan</has_country>
+</rdf:Description>
+
+</rdf:RDF>

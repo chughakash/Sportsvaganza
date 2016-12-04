@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:sports="http://www.semanticweb.org/newsanalytics/ontologies/2016/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://sports.newsanalytics/0">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NFL</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">24-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Detroit</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/1">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NFL</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">24-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Arlington</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/2">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NFL</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">27-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Chicago</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/3">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NFL</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">27-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Houston</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/4">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NFL</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">28-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Philadelphia</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/5">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NCAA Football</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">17-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Troy</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/6">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NCAA Football</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">17-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Houston</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/7">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NCAA Football</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">18-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Boise</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/8">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NCAA Football</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">18-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cicinnati</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/9">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NCAA Football</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">19-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">West Lafayette</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/10">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Football</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NCAA Football</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">19-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Chapel Hill</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/11">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NBA</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">17-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Washington</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/12">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NBA</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">17-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Miami</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/13">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NBA</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">18-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Boston</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/14">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NBA</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">18-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Sacramento</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/15">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NBA</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">19-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">New Orleans</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/16">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Basketball</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">NBA</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">19-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Milwaukee</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/17">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Barclays ATP Finals</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">14-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">London</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">England</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/18">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australian Open</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">16-Jan-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Melbourne</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/19">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">BNP Paribas Open</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">8-Mar-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Indian Wells</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/20">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Tennis</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Miami Open</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">20-Mar-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Key Biscayne</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/21">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">FIFA U-20 Women's World Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">13-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Port Moresby</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Papua New Guinea</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/22">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">FIFA Beach Soccer World Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">27-Apr-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Nassau</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Bahamas</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/23">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">WNT vs Romania</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">10-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">San Jose</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/24">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">WNT vs Romania</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">13-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Carson</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/25">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Soccer</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">FIFA World Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">14-Jun-18</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Kazan-Moscow</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/26">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Archery</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Indoor Archery World Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">12-Dec-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Bangkok</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Thailand</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/27">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Archery</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Archery World Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">16-May-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Shanghai</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">China</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/28">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Archery</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canadian Regional Indoor Championships</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">3-Mar-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Winchester ON</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/29">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Archery</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canadian Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">20-May-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Maple Ridge BC</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/30">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Archery</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canadian Indoor 3D Championships</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">14-Apr-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Lac La Biche AB</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/31">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">3rd Test - India v England</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">26-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Mohali</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/32">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">4th Test - India v England</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">8-Dec-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Mumbai</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/33">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">5th Test - India v England</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">16-Dec-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Chennai</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/34">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Ranji Trophy</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">21-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Delhi</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/35">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Cricket</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India v England ODI Series</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">15-Jan-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Pune</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">India</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/36">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Formula 1</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Abu Dhabi Grand Pix</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">27-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Abu Dhabi</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">UAE</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/37">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Formula 1</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada Grand Pix</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">11-Jun-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Montreal</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/38">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Formula 1</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australian Grand Pix</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">26-Mar-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Melbourne</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Australia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/39">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Formula 1</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russian Grand Pix</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">30-Apr-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Sochi</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Russia</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/40">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Wrestling</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">WWE NXT Live</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">17-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Boston</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/41">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Wrestling</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">WWE Survivor Series</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">20-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Toronto ON</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/42">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Wrestling</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2016 Salt Lake Slam</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">29-Dec-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Farmington</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/43">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Wrestling</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2016 Las Vegas Royal Crush</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">16-Dec-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Las Vegas</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/44">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Wrestling</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">WWE Smackdown</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">22-Nov-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Ottawa ON</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/45">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2016 World Sledge Hockey Challenge</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">4-Dec-16</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Charlottetown P.E.I.</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/46">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2017 IIHF Women's World Championship</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">1-Apr-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Plymouth</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">USA</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/47">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2017 Allan Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">10-Apr-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Bouctouche NB</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://sports.newsanalytics/48">
+	<name xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Hockey</name>
+	<has_events xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">2017 MasterCard Memorial Cup</has_events>
+	<date xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">18-May-17</date>
+	<venue xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Windsor</venue>
+	<has_country xmlns="http://www.semanticweb.org/newsanalytics/ontologies/2016//">Canada</has_country>
+</rdf:Description>
+
+</rdf:RDF>
